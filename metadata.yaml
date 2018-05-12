@@ -23,6 +23,8 @@ creator:
     - http://de.wikipedia.org/wiki/Gottfried_Achenwall
     - http://en.wikipedia.org/wiki/Gottfried_Achenwall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24752#Achenwall-s-Observations-on-North-America
 gutenberg_bookshelf: United States
 gutenberg_issued: '2008-03-04'
 gutenberg_type: Text
